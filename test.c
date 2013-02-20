@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* Nitin's next fantastic comment */
+/* Ashish's first fantastic comment change */
 int main(int argc, char **argv)
 {
 	/* Nitin fantastic comment */
