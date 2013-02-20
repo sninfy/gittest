@@ -4,7 +4,7 @@
 /* Nitin's next wonderful comment */
 int main(int argc, char **argv)
 {
-	/* Nitin's wornderful comment */
+	/* Nitin's wonderful comment */
 	printf("Hello world\n");
 	return 0;
 }
